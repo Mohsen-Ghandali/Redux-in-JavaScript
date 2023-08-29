@@ -1,5 +1,5 @@
 //-------npm i redux------------
-//-------write to CMD: "node index.js"------
+//-------write to CMD: "node index.js" ------
 
 const REDUX= require("redux")
 // --------start action type--------
